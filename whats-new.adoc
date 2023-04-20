@@ -14,7 +14,7 @@ summary: 瞭解在BlueXP中管理E系列系統的新功能。
 
 
 [role="lead"]
-瞭解在BlueXP（前身為Cloud Manager）中管理E系列系統的新功能。
+瞭解在BlueXP中管理E系列系統的新功能。
 
 
 

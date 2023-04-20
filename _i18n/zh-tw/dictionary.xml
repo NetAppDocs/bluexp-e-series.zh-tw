@@ -47,7 +47,6 @@
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">取得協助</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項可供免費使用、一天24小時、一週7天：</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
@@ -95,7 +94,6 @@
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"您無權針對所選服務建立案例"</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">使用產品內對談</block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">請至提交非技術案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
-  <block id="3bdedc5ccac330e89761a5ea0d718e95" category="summary">透過BlueXP（前身為Cloud Manager）探索您的E系列儲存系統、即可完整檢視混合式多雲端的資料。</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 BlueXP中新增一個支援帳戶、然後註冊以取得支援。</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 BlueXP中新增一個支援（NSS）帳戶、然後註冊以取得支援。</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支援登錄總覽</block>
@@ -165,10 +163,7 @@
   <block id="fbdeb641ca6dc35f45827fbd969c85d8" category="inline-image-macro">顯示BlueXP畫版上E系列工作環境的快照。</block>
   <block id="bdc34480642b100bfbc502e65d086a46" category="paragraph"><block ref="bdc34480642b100bfbc502e65d086a46" category="inline-image-macro-rx" type="image"></block></block>
   <block id="13a22b88b0e5c69fd504248e73b90c38" category="summary">瞭解在BlueXP中管理E系列系統的新功能。</block>
-  <block id="14ae357e072b1199e747002f1bec848e" category="paragraph">瞭解在BlueXP（前身為Cloud Manager）中管理E系列系統的新功能。</block>
   <block id="534171d3771a50398027a07275778b3e" category="paragraph">您現在可以直接從BlueXP探索E系列儲存系統。探索E系列系統可讓您完整檢視混合式多雲端的資料。</block>
-  <block id="bcb152582247346e2f453fce02c1fc3c" category="inline-link-macro">BlueXP 3.9</block>
-  <block id="03f975e839e4278228720a5d19656288" category="list-text"><block ref="03f975e839e4278228720a5d19656288" category="inline-link-macro-rx"></block></block>
   <block id="3e197636b47da0f5216fbc90844eeb11" category="sidebar">適用於在BlueXP之外進行管理的E系列文件</block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP部落格</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
@@ -236,4 +231,8 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">* 附件（選填） * ：上傳最多五個附件、一次上傳一個。</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每個檔案的附件上限為 25 MB 。支援下列副檔名： txt 、 log 、 pdf 、 jpg/jpeg 、 rtf 、 doc/dox 、 xls/xlsx 和 csv 。</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">* 更新案例附註 * ：提供問題的其他詳細資料、或選擇 * 上傳檔案 * 最多附加五個檔案。</block>
+  <block id="faace6d0089f53d27382ce3bb68c8ec4" category="summary">透過 BlueXP 探索 E 系列儲存系統、全面瞭解混合式多雲端的資料。</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">藍圖XP注意事項</block>
+  <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
 </blocks>
