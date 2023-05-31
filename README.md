@@ -1,1 +1,1 @@
-# cloud-manager-e-series
+# bluexp-e-series
