@@ -13,6 +13,7 @@ summary: BlueXP可在內部部署環境中探索E系列儲存系統。將E系列
 :imagesdir: ./media/
 
 
+[role="lead"]
 BlueXP可在內部部署環境中探索E系列儲存系統。將E系列系統新增至BlueXP、即可在混合式多雲端上完整檢視資料。
 
 .您需要的產品
