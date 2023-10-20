@@ -16,8 +16,6 @@
   <block id="d9dd2d956a60f0b34b5143e1e91f8d00" category="list-text">*主機*：將I/O傳送至儲存系統上磁碟區的主機詳細資料。</block>
   <block id="ce59d69b0f9457299af782e2cbc63d2c" category="inline-image-macro">E系列工作環境中的「主機」索引標籤快照。</block>
   <block id="7e467104a3cd28d221dc038eaebc41e9" category="paragraph"><block ref="7e467104a3cd28d221dc038eaebc41e9" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="af7ddc3d1fbf222d777fe67b3cb8679e" category="doc">探索E系列儲存系統</block>
-  <block id="91fdeff2704f1bd3f1cac78e4cd8cbb2" category="list-text">連接器安裝在雲端供應商或內部部署環境中、可連線至E系列儲存系統。</block>
   <block id="013d29d39e390d6b894eaf54e5b91328" category="inline-link">深入瞭解連接器及如何建立連接器</block>
   <block id="041fa896c7093cbacc84c8fac7b2628b" category="list-text">儲存系統控制器的網域名稱或IP位址。</block>
   <block id="6ec6d6cf6bc555755f5e7897d3d4192b" category="list-text">系統的管理認證資料。</block>
@@ -53,9 +51,6 @@
   <block id="421eeeca306bdf1873654f04f6d8e61e" category="sidebar">E系列文件</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
-  <block id="b49ef2f39f76037d3bb319371ca7e71b" category="sidebar">探索您的E系列系統</block>
-  <block id="f49d844c86ae1dac27d16322e43bcd51" category="sidebar">管理E系列叢集</block>
-  <block id="39b5010536b500446f47a3e09e43ff03" category="sidebar">移除E系列</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識與支援</block>
   <block id="b9196557da9e22849478c157e8570f9d" category="sidebar">管理E系列系統</block>
   <block id="f6bd0d7447ff66cc6b859603a88fbde9" category="sidebar">相關連結</block>
@@ -112,15 +107,11 @@
   <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">工作環境清單位於您在服務的最上層橫幅中所選的BlueXP帳戶、工作區和Connector範圍內。</block>
   <block id="cbb1209e905360f0ae2bc198fc154877" category="summary">如果您不想再從BlueXP管理E系列工作環境、請將其移除。</block>
   <block id="c71671ca6d67ac21cf44e6590086434d" category="paragraph">移除工作環境不會影響E系列系統。您可以隨時從BlueXP重新探索。</block>
-  <block id="d4ed6879e3a8cf5b19115d43f3a679e8" category="summary">BlueXP可在內部部署環境中探索E系列儲存系統。將E系列系統新增至BlueXP、即可在混合式多雲端上完整檢視資料。</block>
-  <block id="97ac529d5b6e242c35c37449c257f8e3" category="paragraph">BlueXP會探索E系列儲存系統、並將其新增為畫版上的工作環境。</block>
   <block id="fbdeb641ca6dc35f45827fbd969c85d8" category="inline-image-macro">顯示BlueXP畫版上E系列工作環境的快照。</block>
   <block id="bdc34480642b100bfbc502e65d086a46" category="paragraph"><block ref="bdc34480642b100bfbc502e65d086a46" category="inline-image-macro-rx" type="image"></block></block>
   <block id="13a22b88b0e5c69fd504248e73b90c38" category="summary">瞭解在BlueXP中管理E系列系統的新功能。</block>
-  <block id="534171d3771a50398027a07275778b3e" category="paragraph">您現在可以直接從BlueXP探索E系列儲存系統。探索E系列系統可讓您完整檢視混合式多雲端的資料。</block>
   <block id="3e197636b47da0f5216fbc90844eeb11" category="sidebar">適用於在BlueXP之外進行管理的E系列文件</block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP部落格</block>
-  <block id="d59db7846bd10b6d60d21543df9faa9e" category="list-title">您需要的產品</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">結果</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
@@ -206,7 +197,6 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">升級Cloud Volumes ONTAP 更新版的更新版</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">將 NSS 認證與 BlueXP 帳戶建立關聯、與 BlueXP 使用者登入相關的 NSS 帳戶不同。</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">這些 NSS 認證會與您的特定 BlueXP 帳戶 ID 相關聯。屬於BlueXP帳戶的使用者可以從*支援&gt; nss管理*存取這些認證資料。</block>
-  <block id="7800ad4a099cdd7b6476a7ec4026ccaf" category="summary">探索 BlueXP 的 E 系列儲存系統、全面瞭解混合式多雲端的資料。</block>
   <block id="ae36c6babb0825817280d77792a470d6" category="doc">使用 BlueXP 進行 E 系列管理</block>
   <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">在 BlueXP 主控台的右上角、選取「設定」圖示、然後選取 * 認證 * 。</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">選取 * 使用者認證 * 。</block>
@@ -243,4 +233,14 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">取得雲端供應商檔案服務的支援</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
+  <block id="8060a341461a61edc489285d4c464062" category="paragraph">您現在可以直接從 BlueXP 探索 E 系列系統。探索E系列系統可讓您完整檢視混合式多雲端的資料。</block>
+  <block id="f40a769a21757b9da9a38326ec0f8eab" category="summary">BlueXP 可以在內部環境中探索 E 系列系統。將E系列系統新增至BlueXP、即可在混合式多雲端上完整檢視資料。</block>
+  <block id="e4a9dd1c7d750241fad0d52a3bc7903b" category="doc">探索 E 系列系統</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">開始之前</block>
+  <block id="4c6a9048ac276eb9391ebe2abd8e0c0d" category="paragraph">您需要下列項目：</block>
+  <block id="7a2e07efa753c5841b0eb9a77ffb429c" category="list-text">安裝在雲端供應商或內部部署的 Connector 、可與 E 系列系統連線。</block>
+  <block id="0d633329985a4652f38d8a0b1f9a4abb" category="paragraph">BlueXP 會探索 E 系列系統、並將其新增為 Canvas 上的工作環境。</block>
+  <block id="cea1408523bd8c77b6b94d0942d24732" category="summary">探索 BlueXP 的 E 系列系統、全面瞭解混合式多雲端的資料。</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="a9e825fa00a6490b83a7ab53e320af9a" category="sidebar">移除工作環境</block>
 </blocks>

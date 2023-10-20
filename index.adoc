@@ -2,8 +2,8 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: Discover your E-Series storage systems from BlueXP to get a complete view of data across your hybrid multicloud. 
-summary: 探索 BlueXP 的 E 系列儲存系統、全面瞭解混合式多雲端的資料。 
+lead: Discover your E-Series systems from BlueXP to get a complete view of data across your hybrid multicloud. 
+summary: 探索 BlueXP 的 E 系列系統、全面瞭解混合式多雲端的資料。 
 ---
 = 使用 BlueXP 進行 E 系列管理
 :hardbreaks:

@@ -13,16 +13,18 @@ sidebar:
   - title: E系列文件
     url: "/index.html"
   - title: 版本資訊
-    url: "/whats-new.html"
+    entries:
+    - title: 新增功能
+      url: "/whats-new.html"
   - title: 開始使用
     entries:
-    - title: 探索您的E系列系統
+    - title: 探索 E 系列系統
       url: "/task-discover-e-series.html"
-  - title: 管理E系列叢集
+  - title: 管理E系列系統
     entries:
     - title: 檢視您的E系列系統
       url: "/task-view-e-series.html"
-    - title: 移除E系列
+    - title: 移除工作環境
       url: "/task-remove-e-series.html"
   - title: 知識與支援
     entries:
@@ -36,13 +38,13 @@ homepage:
   tiles:
   - title: 開始使用
     links:
-    - title: 探索您的E系列系統
+    - title: 探索 E 系列系統
       url: "/task-discover-e-series.html"
   - title: 管理E系列系統
     links:
     - title: 檢視您的E系列系統
       url: "/task-view-e-series.html"
-    - title: 移除E系列
+    - title: 移除工作環境
       url: "/task-remove-e-series.html"
   - title: 相關連結
     links:
