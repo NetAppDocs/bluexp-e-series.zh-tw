@@ -1,0 +1,29 @@
+---
+indexpage:
+  title: 使用 BlueXP 進行 E 系列管理
+  summary: 歡迎探索 BlueXP 的 E 系列系統、全面瞭解混合式多雲端的資料。
+  keywords: bluexp-family, documentation, e-series, cloud
+  lead: 探索 BlueXP 的 E 系列系統、全面瞭解混合式多雲端的資料。
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 探索 E 系列系統
+      url: "/task-discover-e-series.html"
+  - title: 管理E系列系統
+    links:
+    - title: 檢視您的E系列系統
+      url: "/task-view-e-series.html"
+    - title: 移除工作環境
+      url: "/task-remove-e-series.html"
+  - title: 相關連結
+    links:
+    - title: 適用於在BlueXP之外進行管理的E系列文件
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: 部落格社群
+    links:
+    - title: NetApp社群
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP部落格
+      url: https://cloud.netapp.com/blog
+    - title: 雲端網路研討會
+      url: https://cloud.netapp.com/events
