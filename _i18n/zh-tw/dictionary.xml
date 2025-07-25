@@ -18,7 +18,6 @@
   <block id="7e467104a3cd28d221dc038eaebc41e9" category="paragraph"><block ref="7e467104a3cd28d221dc038eaebc41e9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="013d29d39e390d6b894eaf54e5b91328" category="inline-link">深入瞭解連接器及如何建立連接器</block>
   <block id="041fa896c7093cbacc84c8fac7b2628b" category="list-text">儲存系統控制器的網域名稱或IP位址。</block>
-  <block id="6ec6d6cf6bc555755f5e7897d3d4192b" category="list-text">系統的管理認證資料。</block>
   <block id="2f799a76b51c894f217a81de4e75abc1" category="list-text">如果出現提示、請建立連接器。</block>
   <block id="b5047ecbe29388d4251d2e7ffe1d3437" category="paragraph">如需詳細資料、請參閱上述連結。</block>
   <block id="fc1a9fdf2586621f573554f6060df39b" category="inline-image-macro">螢幕快照會顯示E系列叢集詳細資料頁面、提示您輸入網域名稱或IP位址、以及管理使用者名稱和密碼。</block>
@@ -95,7 +94,6 @@
   <block id="201080500e946070a2e4873042507c77" category="paragraph">確認將您的申請提交給NetApp、並建議您建立NetApp 支援網站 一個申請表。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此過程中、NetApp應與您聯絡。這是新使用者的一次性就職練習。</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp以多種方式提供對BlueXP的支援。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
-  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp以多種方式支援BlueXP及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">請搜尋BlueXP知識庫、找出有助於疑難排解問題的文章。</block>
   <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">歡迎加入BlueXP社群、以追蹤後續討論或建立新討論。</block>
   <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">您目前正在檢視的BlueXP文件。</block>
@@ -115,8 +113,6 @@
   <block id="50a1dc01b7312307c34a888071586955" category="list-text">複製上述步驟2的帳戶序號、完成安全性檢查、然後確認您已閱讀NetApp的全球資料隱私權政策。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX for ONTAP Sf</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">適用於 Google Cloud Cloud Volumes Service</block>
-  <block id="520851e11d4657fa15ed8a11da0eec00" category="list-text">從BlueXP導覽功能表中、選取*儲存設備&gt; Canvas*。</block>
   <block id="fd4854ee5e2a3643d9ffbf8e90ead3ef" category="list-text">在「* E系列*」旁邊、選取「* Discover *（探索*）」。</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自我支援選項</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">利用NetApp支援建立案例</block>
@@ -156,7 +152,6 @@
   <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
   <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
-  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
   <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">這是系統產生的ID、會對應至您的電子郵件。在「* nssn*管理*」頁面上、您可以從顯示電子郵件 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要重新整理登入認證憑證權杖、也可以在中使用*更新認證*選項 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
@@ -173,8 +168,6 @@
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此錯誤可能表示、與該帳戶相關聯的NSS帳戶及記錄公司與BlueXP帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以使用下列其中一個選項尋求協助：</block>
   <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">註冊這兩種類型的序號、即可開啟支援服務單和自動建立個案。如下列所述、將 NetApp 支援網站 （ NSS ）帳戶新增至 BlueXP 即可完成登錄。</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">選取 * 新增 NSS 認證 * 、然後遵循 NetApp 支援網站 （ NSS ）驗證提示。</block>
-  <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">螢幕擷取畫面會顯示帳戶序號和綠色核取方塊、以及註冊支援的文字。</block>
-  <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">如果您是現有的 NetApp 客戶、擁有現有的授權和序號、但沒有 NSS_ 帳戶、則需要建立一個 NSS 帳戶、並將其與您的 BlueXP 登入建立關聯。</block>
   <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">完成下的步驟、將新的 NSS 帳戶與 BlueXP 登入建立關聯 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
   <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">擁有 NetApp 支援網站 帳戶後、請完成下的步驟、將帳戶與 BlueXP 登入建立關聯 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
@@ -225,7 +218,6 @@
   <block id="e4a9dd1c7d750241fad0d52a3bc7903b" category="doc">探索 E 系列系統</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">開始之前</block>
   <block id="4c6a9048ac276eb9391ebe2abd8e0c0d" category="paragraph">您需要下列項目：</block>
-  <block id="7a2e07efa753c5841b0eb9a77ffb429c" category="list-text">安裝在雲端供應商或內部部署的 Connector 、可與 E 系列系統連線。</block>
   <block id="0d633329985a4652f38d8a0b1f9a4abb" category="paragraph">BlueXP 會探索 E 系列系統、並將其新增為 Canvas 上的工作環境。</block>
   <block id="cea1408523bd8c77b6b94d0942d24732" category="summary">探索 BlueXP 的 E 系列系統、全面瞭解混合式多雲端的資料。</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
@@ -242,4 +234,21 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">若要為 Cloud Volumes ONTAP 啟用下列關鍵工作流程、必須將 NetApp 支援網站認證與您的 BlueXP  組織建立關聯：</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">將 NSS 認證與您的 BlueXP  組織建立關聯、不同於與 BlueXP  使用者登入相關聯的 NSS 帳戶。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">這些 NSS 認證會與您的特定 BlueXP  組織 ID 相關聯。屬於 BlueXP  組織的使用者可從 * 支援 &gt; NSS 管理 * 存取這些認證。</block>
+  <block id="1da5a40083bd16c3443e7eda42875506" category="doc">需要BlueXP訪問角色</block>
+  <block id="fd3b9b6f969e334605ecb2deacbd84cc" category="inline-link">了解BlueXP訪問角色。</block>
+  <block id="0366ff255ad441b45d52df443a7b3b55" category="paragraph">現在，您需要以下存取角色之一來查看、發現或管理BlueXP中的 E 系列：組織管理員、資料夾或專案管理員、儲存管理員或系統健康專家。 <block ref="0b85dd2db07f757bcca365b0bb453a52" category="inline-link-rx"></block></block>
+  <block id="454bf295141a25dd7f781d363f9cb0bb" category="paragraph-title">所需的BlueXP角色</block>
+  <block id="4de48b1d25f387ca4892d8634f62973e" category="paragraph">組織管理員、資料夾或專案管理員、儲存管理員或系統健康專家。 <block ref="6677d2bbecb9c8fe39d4645334e442a8" category="inline-link-macro-rx"></block></block>
+  <block id="38dcb7c5e5e753d7ebdd0a699b8ef975" category="list-text">安裝在雲端供應商或您本地的連接器，並透過網路連接到 E 系列系統。您必須擁有組織管理員角色才能建立連接器。</block>
+  <block id="0c14e149f5bac18472d9c5989095d19e" category="list-text">E 系列系統的管理員憑證。</block>
+  <block id="2e238a9f2667d24699d8d442a5ba1246" category="list-text">以下BlueXP存取角色之一：組織管理員、資料夾或專案管理員或儲存管理員。</block>
+  <block id="ac04a20498d286ba4192e33a79e53672" category="inline-link-macro">了解BlueXP訪問角色^。</block>
+  <block id="d2edba6e79c0dd8ed8a074d0a3f18d3a" category="paragraph"><block ref="d2edba6e79c0dd8ed8a074d0a3f18d3a" category="inline-link-macro-rx"></block></block>
+  <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp以多種方式為BlueXP及其雲端服務提供支援。我們提供全天候 (24/7) 的大量免費自助支援選項，例如知識庫 (KB) 文章和社群論壇。您的支援註冊包含透過網路工單取得的遠端技術支援。</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
+  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
+  <block id="5bc6f7894821932fa85d795cfc188701" category="paragraph">組織管理員、資料夾或專案管理員或儲存管理員。 <block ref="6677d2bbecb9c8fe39d4645334e442a8" category="inline-link-macro-rx"></block></block>
+  <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">螢幕截圖顯示了帳戶序號、綠色複選框和文字「已註冊支援」。</block>
+  <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e48502083eb8949c8f65b2ccddd5adec" category="section-title">2025年5月12日</block>
 </blocks>

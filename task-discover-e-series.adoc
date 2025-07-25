@@ -16,19 +16,26 @@ summary: BlueXP 可以在內部環境中探索 E 系列系統。將E系列系統
 [role="lead"]
 BlueXP 可以在內部環境中探索 E 系列系統。將E系列系統新增至BlueXP、即可在混合式多雲端上完整檢視資料。
 
+.所需的BlueXP角色
+組織管理員、資料夾或專案管理員、儲存管理員或系統健康專家。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解BlueXP訪問角色。"^]
+
 .開始之前
 您需要下列項目：
 
-* 安裝在雲端供應商或內部部署的 Connector 、可與 E 系列系統連線。
+* 安裝在雲端供應商或您本地的連接器，並透過網路連接到 E 系列系統。您必須擁有組織管理員角色才能建立連接器。
 +
 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["深入瞭解連接器及如何建立連接器"^]
 
 * 儲存系統控制器的網域名稱或IP位址。
-* 系統的管理認證資料。
+* E 系列系統的管理員憑證。
+* 以下BlueXP存取角色之一：組織管理員、資料夾或專案管理員或儲存管理員。
++
+link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解BlueXP訪問角色^。"]
+
 
 
 .步驟
-. 從BlueXP導覽功能表中、選取*儲存設備> Canvas*。
+. 從導覽功能表中、選取*儲存設備> Canvas*。
 . 從 Canvas 選取 * 新增工作環境 * 、然後選取 * 內部部署 * 。
 . 在「* E系列*」旁邊、選取「* Discover *（探索*）」。
 . 如果出現提示、請建立連接器。

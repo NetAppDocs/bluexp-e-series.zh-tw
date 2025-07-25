@@ -18,6 +18,16 @@ summary: 瞭解在BlueXP中管理E系列系統的新功能。
 
 
 
+== 2025年5月12日
+
+
+
+=== 需要BlueXP訪問角色
+
+現在，您需要以下存取角色之一來查看、發現或管理BlueXP中的 E 系列：組織管理員、資料夾或專案管理員、儲存管理員或系統健康專家。  https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["了解BlueXP訪問角色。"^]
+
+
+
 == 2022年9月18日
 
 

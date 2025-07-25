@@ -1,7 +1,6 @@
 ---
 settings:
   name: E-Series
-  platform: cloud
   internal:
     pdf_enabled: true
   prod:
